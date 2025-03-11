@@ -3,7 +3,7 @@
 ## ingridients 
 
 * Avocado 
-* Lemon
+* Lime
 * Salt
 
 
