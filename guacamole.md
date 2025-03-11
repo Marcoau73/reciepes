@@ -2,4 +2,9 @@
 
 ## ingridients 
 
+* Avocado 
+* Lemon
+* Salt
+
+
 ### Instructions
